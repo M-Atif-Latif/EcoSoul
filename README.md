@@ -36,7 +36,7 @@ EcoSoul is a web application that helps users track their daily carbon footprint
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-repo/eco-soul/issues).
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache-2.0 license.
 
 ---
 
